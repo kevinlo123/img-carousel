@@ -1,0 +1,16 @@
+body{
+  background: grey;
+}
+
+img{
+  position: relative;
+  left: 400px;
+  height: 600px;
+  width: 40%;
+}
+
+div{
+  position: absolute;
+  left: 47%;
+  margin-top: 10px;
+}
